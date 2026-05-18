@@ -1,0 +1,11 @@
+site_name: Adaptive Optics Image Analysis Software Suite
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Cone Detection ML: cone_detection.md
+  - Cone Segmentation ML: cone_segmentation.md
+  - RPE Detection: rpe_detection.md
+
+theme:
+  name: material
