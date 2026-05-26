@@ -17,15 +17,15 @@ This software suite provides user-friendly tools that integrate automated algori
 The suite consists of three independent software tools:
 
 ### Cone Detection ML
-- Automated detection of cone photoreceptors in AO non-confocal split detection images.
+- Artificial intelligence (AI) assisted detection of cone photoreceptors in AO non-confocal split detection images.
 - Github link: [https://github.com/NIH-NEI/ConeDetectionML/tree/main](https://github.com/NIH-NEI/ConeDetectionML/tree/main)
 
 ### Cone Segmentation ML
-- Automated segmentation of cone photoreceptors in AO non-confocal split detection images.
+- AI assisted segmentation of cone photoreceptors in AO non-confocal split detection images.
 - Github link: [https://github.com/NIH-NEI/ConeSegmentationML/tree/main](https://github.com/NIH-NEI/ConeSegmentationML/tree/main)
 
 ### RPE Detection
-- Detection of retinal pigment epithelial (RPE) cells from AO enhanced indocyanine green images.
+- AI assisted detection of retinal pigment epithelial (RPE) cells from AO enhanced indocyanine green images.
 - Github link: [https://github.com/NIH-NEI/RPE_Detection/tree/main](https://github.com/NIH-NEI/RPE_Detection/tree/main)
 
 ---
